@@ -1,1 +1,2 @@
-# project
+# project connect four
+- Kenny
